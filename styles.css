@@ -1,0 +1,46 @@
+.container{
+    height: 380px;
+    width: 380px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.color{
+    height: 70px;
+    width: 380px;
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    gap: 60px; 
+}
+.red{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    border-radius: 50px;
+}
+.blue{
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    border-radius: 50px;
+}
+.black{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border-radius: 50px;
+}
+.green{
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    border-radius: 50px;
+}
+.grid-size{
+    height: 70px;
+    width: 380px;
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    gap: 60px;
+}
