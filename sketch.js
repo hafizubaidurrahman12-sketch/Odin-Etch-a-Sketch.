@@ -101,3 +101,8 @@ function greenColor() {
      currentColor = "green";
 }
 green.addEventListener("click", greenColor);
+const white = color.querySelector(".white");
+function whiteColor() {
+     currentColor = "white";
+}
+white.addEventListener("click", whiteColor);
